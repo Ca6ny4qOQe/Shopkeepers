@@ -416,8 +416,8 @@ public class Messages extends Config {
 			"Buy this shopkeeper"
 	));
 
-	public static String tradingTitlePrefix = c("&2");
-	public static String tradingTitleDefault = c("Shopkeeper");
+	public static String tradingTitlePrefix = c("&8");
+	public static String tradingTitleDefault = c("Trade");
 
 	public static Text mustTargetBlock = Text.parse("&7You must look at a block to place the shopkeeper.");
 	public static Text missingSpawnLocation = Text.parse("&7You must specify a spawn location for this type of shop.");
